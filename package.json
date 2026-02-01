@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
-    "preview": "vite preview",
-    "build": "vite build"
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@fullcalendar/daygrid": "^6.1.20",
